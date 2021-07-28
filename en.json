@@ -1,0 +1,99 @@
+{
+    "@metadata": {},
+    "Language": "English",
+    "Main Menu Bar": {
+        "Home": "Home",
+        "Settings": "Settings",
+        "Help": "Help",
+        "Support": "Support"
+    },
+    "Profile Menu Bar": {
+        "Session": {
+            "Create Post": "Create Post",
+            "Logout": "Logout"
+        },
+        "Guest": {
+            "Login": "Login",
+            "Join hodots.": "Join hodots."
+        }
+    },
+    "Login Window": {
+        "Username": "Username",
+        "Password": "Password",
+        "Error": "An error has occurred",
+        "Login": "Login"
+    },
+    "Search": {
+        "Search": "Search",
+        "Search Bar": "Search..",
+        "Search for": "Search for",
+        "Loading": "Searching..."
+    },
+    "Post Page": {
+        "Loading Post": "Loading Post...",
+        "Skip Advertisement": "Skip Ad",
+        "Post": {
+            "Edit Post": "Edit Post",
+            "post views": ["post views", "post view"],
+            "Licensed by": "Licensed by",
+            "Posted via": "Posted via",
+            "Report": "Report",
+            "Share": "Share",
+            "Errors": {
+                "Deleted": "Post deleted by user",
+                "Unavailable": "Post unavailable, Error occurred reading or the post is private.",
+                "TOS Violation": "Post unavailable because the post violates the Terms of Services",
+                "Banned/Suspended": "Post unavailable because the user who made this post has been banned or suspended",
+                "Guidelines Violation": "Post unavailable because the post violates the Guidelines"
+            }
+        },
+        "Ratings": {
+            "Login Required": "You must login to rate this post."
+        },
+        "Source": {
+            "Source from other sites": "Source from other sites"
+        },
+        "Comment": {
+            "Comment": "Comment",
+            "Comments": ["comments", "comment"],
+            "Comment as": "Comment as",
+            "Settings": {
+                "Delete": "Delete",
+                "Edit": "Edit"
+            },
+            "Reply": {
+                "Reply": "Reply",
+                "Reply as": "Reply as",
+                "Cancel": "Cancel",
+                "Add Reply": "Add Reply",
+                "Show Replies": {
+                    "Show": "Show",
+                    "Hide": "Hide",
+                    "Replies": ["replies", "reply"]
+                }
+            }
+        }
+    },
+    "User Page": {
+        "Loading User": "Loading User...",
+        "Check": ["Check", "Uncheck"],
+        "Checkers": "checkers",
+        "Block": ["Block", "Unblock"],
+        "Blocked Page": {
+            "Blocking": ["You blocked", "for viewing your posts."],
+            "Blocked": ["You are restricted for viewing", "'s posts."]
+        },
+        "User Joined": "Joined",
+        "Content Selection": ["Posts", "About"],
+        "Load More Posts": ["Load More", "Loading More Posts.."]
+    },
+    "Miscellaneous": {
+        "Developer Console Disclaimer": ["Disclaimer", "To prevent account getting hacked, Do not paste here malicious codes to get your hodots.com session."],
+        "Offline Mode Warning": "You are running hodots. in offline"
+    },
+    "Errors": {
+        "404": "Page not found",
+        "404 - User": "User not found",
+        "404 - Post": "Post not found"
+    }
+}
