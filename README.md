@@ -27,6 +27,7 @@ A reward is to put you in our site in credits for translating from English. If y
 ```
 English - en (done)
 English (UK) - enUK
+Welsh - welUK
 Spanish - es
 Japanese - jp
 Russian - ru
@@ -39,12 +40,14 @@ Mandarin - ch
 Cantonese - chc
 Arabic - ar
 Indonesian - in
+Korean - kor
 Hindi - hdi
 Polish - po
 Turkish - tur
 Vietnamese - viet
 Serbian - ser
-Welsh - welUK
+Hungarian - hug
+Italian - it
 ```
 
 ## Translators
