@@ -29,7 +29,9 @@
         "Search": "Search",
         "Search Bar": "Search..",
         "Search for": "Search for",
-        "Loading": "Searching..."
+        "Loading": "Searching...",
+        "# Result Founded": "result found for",
+        "No Result Founded": ["No result for", "found"]
     },
     "Post Page": {
         "Loading Post": "Loading Post...",
