@@ -97,7 +97,8 @@
     },
     "Miscellaneous": {
         "Developer Console Disclaimer": ["Disclaimer", "To prevent account getting hacked, Do not paste here malicious codes to get your hodots.com session."],
-        "Offline Mode Warning": "You are running hodots. in offline"
+        "Offline Mode Warning": "You are running hodots. in offline",
+        "Learn More": "Learn More"
     },
     "Errors": {
         "404": "Page not found",
