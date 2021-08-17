@@ -104,5 +104,36 @@
         "404": "Page not found",
         "404 - User": "User not found",
         "404 - Post": "Post not found"
+    },
+    "Date": {
+        "since": "since",
+        "Long Month": [
+            "January",
+            "February",
+            "March",
+            "April",
+            "May",
+            "June",
+            "July",
+            "August",
+            "September",
+            "October",
+            "November",
+            "December"
+        ],
+        "Short Month": [
+            "Jan.",
+            "Feb.",
+            "Mar.",
+            "Apr.",
+            "May",
+            "Jun.",
+            "Jul.",
+            "Aug.",
+            "Sept.",
+            "Oct.",
+            "Nov.",
+            "Dec."
+        ]
     }
 }
