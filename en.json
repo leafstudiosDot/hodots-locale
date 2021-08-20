@@ -31,7 +31,25 @@
         "Search for": "Search for",
         "Loading": "Searching...",
         "# Result Founded": "result found for",
-        "No Result Founded": ["No result for", "found"]
+        "No Result Founded": ["No result for", "found"],
+        "Warning": {
+            "Warning": "Warning!",
+            "WarnDef": "Your query shows that you may be interested in illegal act",
+            "CP": ["especially in possession of child exploitation material.", "and minors are suffering from harm in some cases like these. Do you have sexual feelings towards minors or viewing behavior addiction, Seek help immediately!"],
+            "SexualExcitement": ["especially in attempt forming addiction to see sexual excitement", "and all of us might be aware that these kind of addictions isn't safe for everyone to have."],
+            "Harassment": ["especially in commited harassment, violence against women, etc.", "and there are many cases about these harassment, and we don't let you to be heard on news about it. Seek help right now!"],
+            "False Info": ["especially in false information, fake posts for attention.", "and we can't let our users here support these people, not only did they hurt our company but it's for hodots. Safety to block among users supporting these kinds of person in purpose for sabotaging our project."],
+            "Fair Note": "To be fair, please search in the query of something nice, our services isn't just for adults above 18 ",
+            "Blocking Query Note": "Why are we blocking these query for? Our priority is everyone's safety, unlike what you have searched for that contains real nudity and extreme graphic violence aren't allowed to create a post on hodots.",
+            "Learn More": [
+                "Learn more about",
+                "Terms of Services",
+                "and",
+                "Guidelines",
+                "as we take these services seriously on what rules do users have to follow here should have posted online."
+            ],
+            "Research Purposes Note": "If you wish to have your query for research purposes, please contact us via Support."
+        } 
     },
     "Post Page": {
         "Loading Post": "Loading Post...",
