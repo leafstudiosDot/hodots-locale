@@ -77,6 +77,7 @@
             "Source from other sites": "Source from other sites"
         },
         "Comment": {
+            "Login Required": "You must login to comment for this post.",
             "Action Suspended": "Your account has been suspended to perform this action.",
             "Comment": "Comment",
             "Comments": ["comments", "comment"],
@@ -91,6 +92,7 @@
                 "Reply as": "Reply as",
                 "Cancel": "Cancel",
                 "Add Reply": "Add Reply",
+                "Delete": "Delete",
                 "Show Replies": {
                     "Show": "Show",
                     "Hide": "Hide",
