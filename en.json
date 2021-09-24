@@ -112,7 +112,11 @@
         },
         "User Joined": "Joined",
         "Content Selection": ["Posts", "About"],
-        "Load More Posts": ["Load More", "Loading More Posts.."]
+        "Load More Posts": ["Load More", "Loading More Posts.."],
+        "Errors": {
+            "User Not Found": "User not found",
+            "Suspended": "This account has been suspended"
+        }
     },
     "Miscellaneous": {
         "Developer Console Disclaimer": ["Disclaimer", "To prevent account getting hacked, Do not paste here malicious codes to get your hodots.com session."],
