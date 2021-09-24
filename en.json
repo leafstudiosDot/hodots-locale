@@ -77,6 +77,7 @@
             "Source from other sites": "Source from other sites"
         },
         "Comment": {
+            "Action Suspended": "Your account has been suspended to perform this action.",
             "Comment": "Comment",
             "Comments": ["comments", "comment"],
             "Comment as": "Comment as",
@@ -85,6 +86,7 @@
                 "Edit": "Edit"
             },
             "Reply": {
+                "Login Required": "You must login to reply to this comment",
                 "Reply": "Reply",
                 "Reply as": "Reply as",
                 "Cancel": "Cancel",
@@ -93,7 +95,8 @@
                     "Show": "Show",
                     "Hide": "Hide",
                     "Replies": ["replies", "reply"]
-                }
+                },
+                "OK": "Ok"
             }
         },
         "NSFW Content": {
