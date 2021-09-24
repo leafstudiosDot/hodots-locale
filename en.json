@@ -66,7 +66,8 @@
                 "Unavailable": "Post unavailable, Error occurred reading or the post is private.",
                 "TOS Violation": "Post unavailable because the post violates the Terms of Services",
                 "Banned/Suspended": "Post unavailable because the user who made this post has been banned or suspended",
-                "Guidelines Violation": "Post unavailable because the post violates the Guidelines"
+                "Guidelines Violation": "Post unavailable because the post violates the Guidelines",
+                "Takedown Request": "Post unavailable due to a takedown requested by"
             }
         },
         "Ratings": {
