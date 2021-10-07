@@ -108,9 +108,9 @@
     },
     "User Page": {
         "Loading User": "Loading User...",
-        "Check": ["Check", "Uncheck"],
+        "Check": ["Check", "Uncheck", "Checking..", "Unchecking.."],
         "Checkers": "checkers",
-        "Block": ["Block", "Unblock"],
+        "Block": ["Block", "Unblock", "Blocking..", "Unblocking.."],
         "Blocked Page": {
             "Blocking": ["You blocked", "for viewing your posts."],
             "Blocked": ["You are restricted for viewing", "'s posts."]
