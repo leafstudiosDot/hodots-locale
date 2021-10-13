@@ -67,6 +67,7 @@
                 "TOS Violation": "Post unavailable because the post violates the Terms of Services",
                 "Banned/Suspended": "Post unavailable because the user who made this post has been banned or suspended",
                 "Guidelines Violation": "Post unavailable because the post violates the Guidelines",
+                "Privacy Violation": "Post unavailable because the post violates the Privacy Policy",
                 "Takedown Request": "Post unavailable due to a takedown requested by"
             }
         },
