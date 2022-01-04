@@ -104,7 +104,7 @@
             }
         },
         "NSFW Content": {
-            "Window Texts": ["This post contains NSFW content that is not suitable for users that are <18.", "If you are <18, please leave and stop viewing this post.", "Please login or join hodots. and make sure you are in a right age for posts with NSFW content.", "Sorry, you are not in the right age for viewing this posts."],
+            "Window Texts": ["This post contains NSFW content that is not suitable for users that are <18.", "If you are <18, please leave and stop viewing this post.", "Please login or join hodots. and make sure you are in a right age for posts with NSFW content.", "Sorry, you are not in the right age for viewing these posts."],
             "Window Buttons": ["Cancel", "I Agree"]
         }
     },
