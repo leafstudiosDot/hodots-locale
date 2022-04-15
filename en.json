@@ -85,6 +85,7 @@
             "Comment": "Comment",
             "Comments": ["comments", "comment"],
             "Comment as": "Comment as",
+            "Load More Comments": ["Load More", "Loading More Comments.."],
             "Settings": {
                 "Delete": "Delete",
                 "Edit": "Edit"
